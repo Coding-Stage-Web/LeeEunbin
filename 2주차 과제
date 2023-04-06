@@ -1,0 +1,49 @@
+.title{
+  color:deepskyblue;
+  text-shadow: 3px 3px darkgray;
+  font-size:75px;
+}
+.contexttitle{
+  color:darkgray;
+  font-size:35px;
+  font-weight:bold;
+  text-decoration: underline;
+}
+.outer{
+  
+  height:200px;
+  overflow:hidden;
+  background-color:deeppink;
+  visibility: hidden;
+}
+.image{
+  background-image: url(C:\Users\이은빈\.vscode\코슷테\4.png);
+  background-size:cover;
+  position:relative;
+  height:50px;
+  top:100px;
+  left:100px;
+}
+.myname{
+  font-size:150%;
+  font-weight: bold;
+  
+  color :darkseagreen;
+  text-shadow: 2px 2px darkolivegreen;
+}
+ul > li{
+  list-style: circle;
+  list-style:disc;
+}
+.boxforcontext{
+  display:inline-block;
+  position: relative;
+  width:70%;
+  height:70%;
+  background-color: rgb(143, 174, 210);
+  border:dashed rgb(212, 232, 240);
+  margin:40px;
+  padding: 30px;
+  
+ 
+}
